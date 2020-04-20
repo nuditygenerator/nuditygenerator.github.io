@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Nuditygenerator.com" resolutions="1x" timestamp="1587400475100">
+  <folder name="assets">
+    <file name="nudity-generator.rar" crc="3792510448" seo="true" mt="1587400063000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="130997249" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u143-7.png" crc="206075529" ref="index"/>
+    <file name="u152-4.png" crc="518874932" ref="index"/>
+    <file name="u167-4.png" crc="201132790" ref="index"/>
+    <file name="u170-4.png" crc="3929967254" ref="index"/>
+    <file name="u180-4.png" crc="4203594633" ref="index"/>
+    <file name="7t9364v.gif" crc="4270576666" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4168104865" seo="true" mt="1587400430307" redirect="true"/>
+</manifest>
